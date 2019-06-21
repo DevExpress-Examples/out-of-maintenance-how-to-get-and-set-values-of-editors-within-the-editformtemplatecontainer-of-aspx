@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to get and set values of editors within the EditFormTemplateContainer of ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1093/)**
+<!-- run online end -->
 
 
 <p>This sample illustrates one more way to get and set editors values using the AfterPerformCallback event handler.</p>
